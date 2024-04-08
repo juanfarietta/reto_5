@@ -1,4 +1,12 @@
 # Reto 5
+```
+Reto 5/
+├── Shape/
+│   ├── __init__.py
+│   ├── ShapeRectangle.py
+│   └── ShapeTriangle.py
+└── main.py
+```
 ## Class Shape 1
 ```python
 class Shape:
